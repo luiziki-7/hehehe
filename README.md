@@ -1,2 +1,2 @@
 # hehehe
-made during the Git Workshop
+Omg I am actually Gitting in Git!
